@@ -1,5 +1,4 @@
 Act as a senior full stack Web3 develop
-
 Build a very simple beginner-friendly project for the GenLayer blockchain.
 
 Project name: AI Two-Answer Judge
