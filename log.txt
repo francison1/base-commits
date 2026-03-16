@@ -1,5 +1,5 @@
 
-Build a very simple beginner-friendly project
+Build a very simple beginner-friendly projec
 Project name: AI Two-Answer Judge
 
 Goal:
