@@ -1,4 +1,4 @@
-Act as a senior full 
+Act as a senior full
 Build a very simple beginner-friendly project for the GenLayer b
 Project name: AI Two-Answer Judge
 
