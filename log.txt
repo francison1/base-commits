@@ -1,5 +1,5 @@
 
-Build a very simple beginner-friendly project for the GenL
+Build a very simple beginner-friendly project for the Gen
 Project name: AI Two-Answer Judge
 
 Goal:
