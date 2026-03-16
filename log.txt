@@ -1,0 +1,67 @@
+Act as a senior full stack Web3 developer.
+
+Build a very simple beginner-friendly project for the GenLayer blockchain.
+
+Project name: AI Two-Answer Judge
+
+Goal:
+Create a small web app where a user enters a question and two possible answers. 
+An AI model evaluates the answers and decides which answer is better. 
+The result (winner and explanation) is stored onchain using a GenLayer smart contract.
+
+Requirements:
+
+Frontend
+Use Next.js and React.
+Create a single page with a simple form containing:
+- Question input
+- Answer A input
+- Answer B input
+- Submit button
+
+After submission show:
+- Winner (A or B)
+- Explanation from the AI
+
+Keep the UI minimal and beginner friendly.
+
+AI Logic
+Write a function that sends the inputs to an AI model with this evaluation prompt:
+
+"Compare the two answers and decide which answer is more accurate and helpful.
+
+Question: {question}
+Answer A: {answerA}
+Answer B: {answerB}
+
+Return:
+Winner: A or B
+Explanation: short reasoning."
+
+Parse the AI response and return winner and explanation.
+
+Smart Contract
+Create a simple GenLayer smart contract that stores:
+- question
+- answerA
+- answerB
+- winner
+- explanation
+
+Include:
+submitAnswers()
+storeResult()
+
+Integration
+Connect the frontend to the contract so that when the user submits the form:
+1. Inputs are sent to the AI evaluation function
+2. The AI returns the winner and explanation
+3. The result is saved onchain through the smart contract
+
+Also include:
+- basic project folder structure
+- full code examples
+- instructions for running the project locally
+- instructions for deploying to the GenLayer testnet
+
+Keep the code simple and well commented so a beginner can understand it.
