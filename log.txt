@@ -1,5 +1,5 @@
 
-Build a very simple beginne
+Build a very simple beginn
 Project name: AI Two-Answer Judge
 
 Goal:
