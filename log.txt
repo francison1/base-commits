@@ -1,4 +1,4 @@
-Act as a senior full stack Web3 develope
+Act as a senior full stack Web3 develop
 
 Build a very simple beginner-friendly project for the GenLayer blockchain.
 
