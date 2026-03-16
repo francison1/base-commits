@@ -1,5 +1,5 @@
 Act as a senior full stack Web3 devel
-Build a very simple beginner-friendly project for the GenLayer blockcha
+Build a very simple beginner-friendly project for the GenLayer blockch
 
 Project name: AI Two-Answer Judge
 
