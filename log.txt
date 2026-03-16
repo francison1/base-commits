@@ -1,5 +1,5 @@
 
-Build a very simple beginner-friendly project for the Ge
+Build a very simple beginner-friendly project for the G
 Project name: AI Two-Answer Judge
 
 Goal:
