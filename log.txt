@@ -1,5 +1,5 @@
 
-Bu
+B
 Project name: AI Two-Answer Judge
 
 Goal:
