@@ -1,5 +1,5 @@
 
-Build a very simple beginner-friend
+Build a very simple beginner-frien
 Project name: AI Two-Answer Judge
 
 Goal:
