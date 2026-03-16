@@ -1,5 +1,5 @@
 
-Build a very simple beginner-friendly project for the GenLayer
+Build a very simple beginner-friendly project for the GenLaye
 Project name: AI Two-Answer Judge
 
 Goal:
