@@ -1,4 +1,4 @@
-Act as a seni
+Act as a sen
 Build a very simple beginner-friendly project for the GenLayer b
 Project name: AI Two-Answer Judge
 
