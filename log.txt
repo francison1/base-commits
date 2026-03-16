@@ -1,5 +1,5 @@
 
-Build a very simple beginner-frie
+Build a very simple beginner-fri
 Project name: AI Two-Answer Judge
 
 Goal:
